@@ -8,3 +8,5 @@ new branch update with new
 git remote add origin https://github.com/diptobarman10/machine-learning.git
 git branch -M master
 git push -u origin master
+
+new branch update to new1
