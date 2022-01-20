@@ -5,3 +5,6 @@ fc1 new branch 11
 new branch update with new
 
 
+git remote add origin https://github.com/diptobarman10/machine-learning.git
+git branch -M master
+git push -u origin master
