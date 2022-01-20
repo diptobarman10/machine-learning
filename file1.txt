@@ -10,3 +10,5 @@ git branch -M master
 git push -u origin master
 
 new branch update to new1
+
+new update for master 
